@@ -26,3 +26,28 @@ This project is a demonstration of my understanding of GitHub and Markdown files
 ## 📬 Contact
 
 If you have any suggestions, feel free to raise an issue or create a pull request.
+# Final Project
+
+This is my final project repository.
+
+## 📄 Description
+
+This project is created as part of my academic work. It contains essential documentation like:
+
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+
+## 🛠️ Technologies Used
+
+- Markdown (.md files)
+- GitHub for version control
+
+## 🙋‍♀️ Author
+
+Shahidha P  
+BA English Literature Student  
+Jamia Nadwiyya Arts & Science College
+
+## 🌐 Connect with me
+
+- GitHub: [shahidhapp](https://github.com/shahidhapp)
